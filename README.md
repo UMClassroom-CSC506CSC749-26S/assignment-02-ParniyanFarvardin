@@ -76,8 +76,9 @@ Your submission will be graded according to the following:
 </UL>
 
 It is worth 20% of the subject's assessment.
-Please review the <A HREF="../Admin/">policies on assessment</A> in the administration document.
+Please review the <A HREF="https://www.cs.miami.edu/home/geoff/Courses/CSC749-26S/Admin/">
+policies on assessment</A> in the administration document.
 
 This assignment is worth 20% of the course assessment.
-I will be graded according to <A HREF="MarkingScheme.md">this marking scheme</A>.
+It will be graded according to <A HREF="MarkingScheme.md">this marking scheme</A>.
 <HR><!-- -------------------------------------------------------------------------------------- -->
